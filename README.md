@@ -10,12 +10,12 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 ## About Me | À propos
 
-🔍 **Currently** (as of Jan 2026):
+🔍 **Currently** (as of March 2026):
 - Consultant Indépendant — AI Ethics & Governance (Sept 2025+)
 - Independent Researcher — AI Risk Analysis & Prospective (Aug 2025+)
 - OpenAI Expert Beta-Tester — Top 1.7% Global Rank (Nov 2022+, 3+ years)
 
-📍 Rouen, Normandy, France | Hybrid Work
+📍 Gisors, Normandy, France | Hybrid Work
 
 ---
 
@@ -34,12 +34,12 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 ---
 
-## ⭐ Flagship Project: Collaborative Integrity Pact (CIP) v2.5
+## ⭐ Flagship Project: Collaborative Integrity Pact (CIP) v2.6.3
 
 **A non-binding, reversible ethical framework for structuring human-AI interactions with integrity and shared responsibility.**
 
 📦 **[Human-AI-Moral-Contract Repository](https://github.com/meunier-jc/Human-AI-Moral-Contract)**
-- Version: v2.5 (January 2026)
+- Version: v2.6.3 (March 2026)
 - License: CC BY-SA 4.0
 - Status: Active Development + Community Contributions Welcome
 - Tested across 7 major LLM platforms
@@ -54,28 +54,28 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 **🔬 Hallucinatory Mise en Abyme Analysis** (September 2025)
 - Analysis of recursive hallucination embedding in generative AI
 - Led to creation of the Collaborative Integrity Pact framework
-- [Read Full Analysis](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/docs/Hallucinatory-Mise-en-Abyme-Analysis-September-2025.md)
+- [Read the full analysis](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/docs/Hallucinatory-Mise-en-Abyme-Analysis-September-2025.md)
 
 ---
 
 ## 💼 Services Offered
 
-✅ **Formation** — AI Ethics, Governance, Implementation
-✅ **Strategic Planning** — AI deployment roadmaps
-✅ **Business Consulting** — Risk mitigation, governance frameworks
-✅ **Fundamental Research** — AI phenomena analysis
-✅ **Project Management** — Open-source & collaborative initiatives
+✅ **Training** — AI Ethics, Governance & Implementation
+✅ **Strategic Planning** — AI Deployment Roadmaps
+✅ **Management Consulting** — Risk Mitigation, Governance Frameworks
+✅ **Fundamental Research** — AI Phenomenon Analysis
+✅ **Project Management** — Open-Source & Collaborative Initiatives
 
 ---
 
 ## 🎯 Let's Connect
 
 **Open to:**
-- 🔍 Research collaborations on AI ethics & governance
+- 🔍 Research collaborations on AI Ethics & Governance
 - 💬 Framework testing & validation across platforms
-- 📝 Real-world implementation case studies
+- 📝 Concrete implementation case studies
 - 🌐 Community building in AI ethics discourse
-- 👥 Speaking engagements & academic engagement
+- 👥 Public speaking & academic collaborations
 
 📧 **Email:** ia.normandie.expert@gmail.com
 💼 **LinkedIn:** [Profile](https://linkedin.com/in/jean-christophe-meunier-ai-consult)
@@ -83,4 +83,4 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 ---
 
-**Last Updated:** January 21, 2026 | **Status:** Open for Collaboration
+**Last Updated:** March 1, 2026 | **Status:** Open to Collaboration
