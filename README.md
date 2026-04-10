@@ -10,7 +10,7 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 ## About Me | À propos
 
-🔍 **Currently** (as of March 2026):
+🔍 **Currently** (as of April 2026):
 - Consultant Indépendant — AI Ethics & Governance (Sept 2025+)
 - Independent Researcher — AI Risk Analysis & Prospective (Aug 2025+)
 - OpenAI Expert Beta-Tester — Top 1.7% Global Rank (Nov 2022+, 3+ years)
@@ -26,7 +26,7 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 - 🔍 AI Hallucination Research (Recursive Embedding Analysis)
 - 📋 Responsible AI Deployment Protocols
 - 🛡️ AI Risk Assessment & Governance Standards
-- 💼 Strategic Consulting for Public Institutions
+- 🏛️ Strategic Consulting for Public Institutions
 
 **Key Skills:**
 - AI Ethics & Governance | Strategic Consulting | Risk Management
@@ -34,17 +34,19 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 ---
 
-## ⭐ Flagship Project: Collaborative Integrity Pact (CIP) v2.6.3
+## ⭐ Flagship Project: Collaborative Integrity Pact (CIP) v2.9
 
 **A non-binding, reversible ethical framework for structuring human-AI interactions with integrity and shared responsibility.**
 
 📦 **[Human-AI-Moral-Contract Repository](https://github.com/meunier-jc/Human-AI-Moral-Contract)**
-- Version: v2.6.3 (March 2026)
+
+- Version: v2.9 (April 2026)
 - License: CC BY-SA 4.0
 - Status: Active Development + Community Contributions Welcome
 - Tested across 7 major LLM platforms
 
 ### Core Philosophy
+
 > "Lucid recognition of limits is more reliable than pretense of their absence. Shared vigilance is more effective than blind trust. Assumed interdependence is more solid than the illusion of autonomy."
 
 ---
@@ -52,6 +54,7 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 ## 📚 Research & Publications
 
 **🔬 Hallucinatory Mise en Abyme Analysis** (September 2025)
+
 - Analysis of recursive hallucination embedding in generative AI
 - Led to creation of the Collaborative Integrity Pact framework
 - [Read the full analysis](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/docs/Hallucinatory-Mise-en-Abyme-Analysis-September-2025.md)
@@ -77,10 +80,8 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 - 🌐 Community building in AI ethics discourse
 - 👥 Public speaking & academic collaborations
 
-📧 **Email:** ia.normandie.expert@gmail.com
+📧 **Email:** [ia.normandie.expert@gmail.com](mailto:ia.normandie.expert@gmail.com)
 💼 **LinkedIn:** [Profile](https://linkedin.com/in/jean-christophe-meunier-ai-consult)
 🐙 **GitHub:** [@meunier-jc](https://github.com/meunier-jc)
 
----
-
-**Last Updated:** March 1, 2026 | **Status:** Open to Collaboration
+**Last Updated:** April 9, 2026 | **Status:** Open to Collaboration
