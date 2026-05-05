@@ -42,7 +42,7 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 📦 **[authentic-fluency Repository](https://github.com/meunier-jc/authentic-fluency)**
 
 - Version: v3.8 (May 2026)
-- License: CC BY-SA 4.0
+- License: **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** — free to use, share, and modify. Derivatives must credit the original and carry the same licence.
 - Status: Active — Contributions Welcome
 - Predecessor: [Human-AI-Moral-Contract](https://github.com/meunier-jc/Human-AI-Moral-Contract) (v1.x – v2.9, archived)
 
@@ -50,6 +50,7 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 - **Universal** — Designed to be adoptable by any current or future generative AI system, regardless of architecture, provider, or use context. Open-source and non-discriminatory: proprietary and open-weight models are equally eligible.
 - **Evolutionary** — Axiom-based, not procedural. The framework does not prescribe fixed methods; it establishes invariants that hold as AI capabilities, regulations, and risk landscapes evolve.
+- **Open & modifiable** — Anyone may adapt, extend, or fork the CIP for their own context, provided attribution is maintained and derivatives remain under the same open licence. No permission required.
 - **AI-initiable** — Either party — human or AI — may activate the framework as soon as it recognizes the conditions for a collaboration grounded in verifiable rigor.
 
 ### Core Philosophy
