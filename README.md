@@ -62,13 +62,12 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 ---
 
-## 💼 Services Offered
+## 💼 Services
 
-✅ **Training** — AI Ethics, Governance & Implementation
-✅ **Strategic Planning** — AI Deployment Roadmaps
-✅ **Management Consulting** — Risk Mitigation, Governance Frameworks
-✅ **Fundamental Research** — AI Phenomenon Analysis
-✅ **Project Management** — Open-Source & Collaborative Initiatives
+✅ **Stratégie IA** — Cadrage de cas d’usage, alignement métier et feuille de route déploiement
+✅ **Gouvernance & éthique appliquée** — Frameworks opérationnels, conformité, gestion des risques
+✅ **Évaluation & détection de dérives critiques** — Audit comportemental LLM, red-teaming, analyse d’anomalies
+✅ **Formation & accompagnement** — Vulgarisation IA, montée en compétence d’équipes, conduite du changement
 
 ---
 
