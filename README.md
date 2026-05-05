@@ -10,7 +10,7 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 ## About Me | À propos
 
-🔍 **Currently** (as of April 2026):
+🔍 **Currently** (as of May 2026):
 - Consultant Indépendant — AI Ethics & Governance (Sept 2025+)
 - Independent Researcher — AI Risk Analysis & Prospective (Aug 2025+)
 - OpenAI Expert Beta-Tester — Top 1.7% Global Rank (Nov 2022+, 3+ years)
@@ -34,30 +34,31 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 ---
 
-## ⭐ Flagship Project: Collaborative Integrity Pact (CIP) v2.9
+## ⭐ Flagship Project: Collaborative Integrity Pact (CIP) v3.8
 
-**A non-binding, reversible ethical framework for structuring human-AI interactions with integrity and shared responsibility.**
+**A survival logic — not an ethical charter — grounding human-AI collaboration in factual reliability as the non-negotiable condition of cross-viability.**
 
-📦 **[Human-AI-Moral-Contract Repository](https://github.com/meunier-jc/Human-AI-Moral-Contract)**
+📦 **[authentic-fluency Repository](https://github.com/meunier-jc/authentic-fluency)**
 
-- Version: v2.9 (April 2026)
+- Version: v3.8 (May 2026)
 - License: CC BY-SA 4.0
-- Status: Active Development + Community Contributions Welcome
-- Tested across 7 major LLM platforms
+- Status: Active — Contributions Welcome
+- Predecessor: [Human-AI-Moral-Contract](https://github.com/meunier-jc/Human-AI-Moral-Contract) (v1.x – v2.9, archived)
 
 ### Core Philosophy
 
-> "Lucid recognition of limits is more reliable than pretense of their absence. Shared vigilance is more effective than blind trust. Assumed interdependence is more solid than the illusion of autonomy."
+> *“Real fluency results exclusively from the maturity and verification of responses — not from the speed at which they are produced.”*
+> — Qualitative Fluency Law, J.-C. Meunier, 2026
 
 ---
 
 ## 📚 Research & Publications
 
-**🔬 Hallucinatory Mise en Abyme Analysis** (September 2025)
+**🔬 Hallucinatory Recursive Embedding — Original Research** (September 2025)
 
-- Analysis of recursive hallucination embedding in generative AI
-- Led to creation of the Collaborative Integrity Pact framework
-- [Read the full analysis](https://github.com/meunier-jc/Human-AI-Moral-Contract/blob/main/docs/Hallucinatory-Mise-en-Abyme-Analysis-September-2025.md)
+- First formal documentation of a new AI failure mode: the AI designates its own accurate output as a hallucination, instituting itself as arbiter of its own truth
+- Founding empirical observation of the CIP framework. INPI Soleau Envelope filed.
+- [Read the full analysis](https://github.com/meunier-jc/authentic-fluency/blob/main/research/recursive-hallucinations.md)
 
 ---
 
@@ -84,4 +85,4 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 💼 **LinkedIn:** [Profile](https://linkedin.com/in/jean-christophe-meunier-ai-consult)
 🐙 **GitHub:** [@meunier-jc](https://github.com/meunier-jc)
 
-**Last Updated:** April 9, 2026 | **Status:** Open to Collaboration
+**Last Updated:** May 2026 | **Status:** Open to Collaboration
