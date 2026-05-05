@@ -1,6 +1,6 @@
 # 👋 Welcome | Bienvenue
 
-🚀 **AI Ethics Researcher | Collaborative Integrity Pact Architect | Independent Consultant**
+🚀 **Atypical AI Governance & Ethics Thinker | SSH & AI Practitioner | Independent Consultant**
 
 Advancing responsible human-AI collaboration through open-source ethics frameworks
 
@@ -8,10 +8,10 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 ---
 
-## About Me | À propos
+## About Me
 
 🔍 **Currently** (as of May 2026):
-- Consultant Indépendant — AI Ethics & Governance (Sept 2025+)
+- Independent Consultant — AI Ethics & Governance (Sept 2025+)
 - Independent Researcher — AI Risk Analysis & Prospective (Aug 2025+)
 - OpenAI Expert Beta-Tester — Top 1.7% Global Rank (Nov 2022+, 3+ years)
 
@@ -31,6 +31,7 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 **Key Skills:**
 - AI Ethics & Governance | Strategic Consulting | Risk Management
 - Multi-Platform LLM Testing & Validation | Open-Source Framework Design
+- Social Sciences & Humanities (SSH) applied to AI systems analysis
 
 ---
 
@@ -64,10 +65,10 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 ## 💼 Services
 
-✅ **Stratégie IA** — Cadrage de cas d’usage, alignement métier et feuille de route déploiement
-✅ **Gouvernance & éthique appliquée** — Frameworks opérationnels, conformité, gestion des risques
-✅ **Évaluation & détection de dérives critiques** — Audit comportemental LLM, red-teaming, analyse d’anomalies
-✅ **Formation & accompagnement** — Vulgarisation IA, montée en compétence d’équipes, conduite du changement
+✅ **AI Strategy** — Use case framing, business alignment, deployment roadmaps
+✅ **Governance & Applied Ethics** — Operational frameworks, compliance, risk management
+✅ **Critical Drift Detection & Evaluation** — LLM behavioral auditing, red-teaming, anomaly analysis
+✅ **Training & Team Enablement** — AI literacy, upskilling, change management
 
 ---
 
