@@ -46,6 +46,12 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 - Status: Active — Contributions Welcome
 - Predecessor: [Human-AI-Moral-Contract](https://github.com/meunier-jc/Human-AI-Moral-Contract) (v1.x – v2.9, archived)
 
+### Scope & Design Principles
+
+- **Universal** — Designed to be adoptable by any current or future generative AI system, regardless of architecture, provider, or use context. Open-source and non-discriminatory: proprietary and open-weight models are equally eligible.
+- **Evolutionary** — Axiom-based, not procedural. The framework does not prescribe fixed methods; it establishes invariants that hold as AI capabilities, regulations, and risk landscapes evolve.
+- **AI-initiable** — Either party — human or AI — may activate the framework as soon as it recognizes the conditions for a collaboration grounded in verifiable rigor.
+
 ### Core Philosophy
 
 > *“Real fluency results exclusively from the maturity and verification of responses — not from the speed at which they are produced.”*
