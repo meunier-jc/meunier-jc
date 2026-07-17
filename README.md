@@ -35,14 +35,12 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 ---
 
-## ⭐ Flagship Project: Collaborative Integrity Pact (CIP) v3.8
-
+## ⭐ Flagship Project: Collaborative Integrity Pact (CIP) v5.0
 **A survival logic — not an ethical charter — grounding human-AI collaboration in factual reliability as the non-negotiable condition of cross-viability.**
 
 📦 **[authentic-fluency Repository](https://github.com/meunier-jc/authentic-fluency)**
 
-- Version: v3.8 (May 2026)
-- License: **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** — free to use, share, and modify. Derivatives must credit the original and carry the same licence.
+– Version: v5.0 (July 2026)- License: **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** — free to use, share, and modify. Derivatives must credit the original and carry the same licence.
 - Status: Active — Contributions Welcome
 - Predecessor: [Human-AI-Moral-Contract](https://github.com/meunier-jc/Human-AI-Moral-Contract) (v1.x – v2.9, archived)
 
@@ -92,4 +90,4 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 💼 **LinkedIn:** [Profile](https://linkedin.com/in/jean-christophe-meunier-ai-consult)
 🐙 **GitHub:** [@meunier-jc](https://github.com/meunier-jc)
 
-**Last Updated:** May 2026 | **Status:** Open to Collaboration
+July 2026
