@@ -15,7 +15,7 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 - Independent Researcher — AI Risk Analysis & Prospective (Aug 2025+)
 - OpenAI Expert Beta-Tester — Top 1.7% Global Rank (Nov 2022+, 3+ years)
 
-📍 Gisors, Normandy, France | Hybrid Work
+📍 Paris, France | Hybrid Work
 
 ---
 
