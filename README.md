@@ -1,8 +1,8 @@
 # 👋 Welcome | Bienvenue
 
-🚀 **Atypical AI Governance & Ethics Thinker | SSH & AI Practitioner | Independent Consultant**
+**Atypical AI Governance & Ethics Thinker | SSH & AI Practitioner | Independent Consultant**
 
-Advancing responsible human-AI collaboration through open-source ethics frameworks
+Advancing human-AI collaboration through open-source reliability and co-regulation frameworks
 
 [LinkedIn](https://linkedin.com/in/jean-christophe-meunier-ai-consult) • [Email](mailto:ia.normandie.expert@gmail.com) • [GitHub](https://github.com/meunier-jc)
 
@@ -10,10 +10,10 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 ## About Me
 
-🔍 **Currently** (as of May 2026):
+🔍 **Currently** (as of July 2026):
 - Independent Consultant — AI Ethics & Governance (Sept 2025+)
 - Independent Researcher — AI Risk Analysis & Prospective (Aug 2025+)
-- OpenAI Expert Beta-Tester — Top 1.7% Global Rank (Nov 2022+, 3+ years)
+- OpenAI Expert Beta-Tester — Top 1.2% Global Rank (Nov 2022+, 3+ years)
 
 📍 Paris, France | Hybrid Work
 
@@ -40,7 +40,8 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 📦 **[authentic-fluency Repository](https://github.com/meunier-jc/authentic-fluency)**
 
-– Version: v5.0 (July 2026)- License: **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** — free to use, share, and modify. Derivatives must credit the original and carry the same licence.
+- Version: v5.0 (July 2026)
+- License: **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** — free to use, share, and modify. Derivatives must credit the original and carry the same licence.
 - Status: Active — Contributions Welcome
 - Predecessor: [Human-AI-Moral-Contract](https://github.com/meunier-jc/Human-AI-Moral-Contract) (v1.x – v2.9, archived)
 
@@ -64,11 +65,13 @@ Advancing responsible human-AI collaboration through open-source ethics framewor
 
 - First formal documentation of a new AI failure mode: the AI designates its own accurate output as a hallucination, instituting itself as arbiter of its own truth
 - Founding empirical observation of the CIP framework. INPI Soleau Envelope filed.
-- [Read the full analysis](https://github.com/meunier-jc/authentic-fluency/blob/main/research/recursive-hallucinations.md)
+- [Read the full analysis](https://github.com/meunier-jc/authentic-fluency/blob/main/research/hallucinatory-inception.md)
 
 ---
 
-## 💼 Services
+## 💼 Professional Services
+
+The services below are the author’s independent consulting activities. They are presented separately from the CIP repository, which remains the author’s open-source research framework.
 
 ✅ **AI Strategy** — Use case framing, business alignment, deployment roadmaps
 ✅ **Governance & Applied Ethics** — Operational frameworks, compliance, risk management
