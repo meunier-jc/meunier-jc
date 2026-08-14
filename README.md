@@ -6,6 +6,12 @@ Advancing human-AI collaboration through open-source reliability and co-regulati
 
 [LinkedIn](https://linkedin.com/in/jean-christophe-meunier-ai-consult) • [Email](mailto:ia.normandie.expert@gmail.com) • [GitHub](https://github.com/meunier-jc)
 
+[![CIP v5.0](https://img.shields.io/badge/CIP-v5.0-teal.svg)](https://github.com/meunier-jc/authentic-fluency)
+[![Statut : actif](https://img.shields.io/badge/Statut-Actif-brightgreen.svg)](https://github.com/meunier-jc/authentic-fluency)
+[![Licence : CC BY-SA 4.0](https://img.shields.io/badge/Licence-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Documentation](https://img.shields.io/badge/Documentation-ouverte-7A5AF8.svg)](https://github.com/meunier-jc/authentic-fluency/tree/main/research)
+[![Contributions ouvertes](https://img.shields.io/badge/Contributions-ouvertes-2EA44F.svg)](https://github.com/meunier-jc/authentic-fluency/blob/main/CONTRIBUTING.md)
+
 ---
 
 ## About Me
