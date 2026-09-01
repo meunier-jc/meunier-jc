@@ -6,7 +6,7 @@ Advancing human-AI collaboration through open-source reliability and co-regulati
 
 [LinkedIn](https://linkedin.com/in/jean-christophe-meunier-ai-consult) • [Email](mailto:ia.normandie.expert@gmail.com) • [GitHub](https://github.com/meunier-jc)
 
-[![CIP v5.0](https://img.shields.io/badge/CIP-v5.0-teal.svg)](https://github.com/meunier-jc/authentic-fluency)
+[![CIP v5.1](https://img.shields.io/badge/CIP-v5.1-teal.svg)](https://github.com/meunier-jc/authentic-fluency)
 [![Statut : actif](https://img.shields.io/badge/Statut-Actif-brightgreen.svg)](https://github.com/meunier-jc/authentic-fluency)
 [![Licence : CC BY-SA 4.0](https://img.shields.io/badge/Licence-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Documentation](https://img.shields.io/badge/Documentation-ouverte-7A5AF8.svg)](https://github.com/meunier-jc/authentic-fluency/tree/main/research)
@@ -16,10 +16,10 @@ Advancing human-AI collaboration through open-source reliability and co-regulati
 
 ## About Me
 
-🔍 **Currently** (as of July 2026):
+🔍 **Currently** (as of August 2026):
 - Independent Consultant — AI Ethics & Governance (Sept 2025+)
 - Independent Researcher — AI Risk Analysis & Prospective (Aug 2025+)
-- OpenAI Expert Beta-Tester — Top 1.2% Global Rank (Nov 2022+, 3+ years)
+- OpenAI Expert Beta-Tester — Top 1.5% Global Rank (Nov 2022+, 3+ years)
 
 📍 Paris, France | Hybrid Work
 
@@ -41,12 +41,13 @@ Advancing human-AI collaboration through open-source reliability and co-regulati
 
 ---
 
-## ⭐ Flagship Project: Collaborative Integrity Pact (CIP) v5.0
+## ⭐ Flagship Project: Collaborative Integrity Pact (CIP) v5.1
+
 **A survival logic — not an ethical charter — grounding human-AI collaboration in factual reliability as the non-negotiable condition of cross-viability.**
 
 📦 **[authentic-fluency Repository](https://github.com/meunier-jc/authentic-fluency)**
 
-- Version: v5.0 (July 2026)
+- Version: v5.1 (August 2026)
 - License: **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** — free to use, share, and modify. Derivatives must credit the original and carry the same licence.
 - Status: Active — Contributions Welcome
 - Predecessor: [Human-AI-Moral-Contract](https://github.com/meunier-jc/Human-AI-Moral-Contract) (v1.x – v2.9, archived)
@@ -60,7 +61,7 @@ Advancing human-AI collaboration through open-source reliability and co-regulati
 
 ### Core Philosophy
 
-> *“Real fluency results exclusively from the maturity and verification of responses — not from the speed at which they are produced.”*
+> "Real fluency results exclusively from the maturity and verification of responses — not from the speed at which they are produced."
 > — Qualitative Fluency Law, J.-C. Meunier, 2026
 
 ---
@@ -77,7 +78,7 @@ Advancing human-AI collaboration through open-source reliability and co-regulati
 
 ## 💼 Professional Services
 
-The services below are the author’s independent consulting activities. They are presented separately from the CIP repository, which remains the author’s open-source research framework.
+The services below are the author's independent consulting activities. They are presented separately from the CIP repository, which remains the author's open-source research framework.
 
 ✅ **AI Strategy** — Use case framing, business alignment, deployment roadmaps
 ✅ **Governance & Applied Ethics** — Operational frameworks, compliance, risk management
@@ -98,5 +99,3 @@ The services below are the author’s independent consulting activities. They ar
 📧 **Email:** [ia.normandie.expert@gmail.com](mailto:ia.normandie.expert@gmail.com)
 💼 **LinkedIn:** [Profile](https://linkedin.com/in/jean-christophe-meunier-ai-consult)
 🐙 **GitHub:** [@meunier-jc](https://github.com/meunier-jc)
-
-July 2026
