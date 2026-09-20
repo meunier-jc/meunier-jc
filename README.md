@@ -6,7 +6,7 @@ Advancing human-AI collaboration through open-source reliability and co-regulati
 
 [LinkedIn](https://linkedin.com/in/jean-christophe-meunier-ai-consult) • [Email](mailto:ia.normandie.expert@gmail.com) • [GitHub](https://github.com/meunier-jc)
 
-[![CIP v5.1](https://img.shields.io/badge/CIP-v5.1-teal.svg)](https://github.com/meunier-jc/authentic-fluency)
+[![CIP v5.2](https://img.shields.io/badge/CIP-v5.2-teal.svg)](https://github.com/meunier-jc/authentic-fluency)
 [![Statut : actif](https://img.shields.io/badge/Statut-Actif-brightgreen.svg)](https://github.com/meunier-jc/authentic-fluency)
 [![Licence : CC BY-SA 4.0](https://img.shields.io/badge/Licence-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Documentation](https://img.shields.io/badge/Documentation-ouverte-7A5AF8.svg)](https://github.com/meunier-jc/authentic-fluency/tree/main/research)
@@ -41,13 +41,13 @@ Advancing human-AI collaboration through open-source reliability and co-regulati
 
 ---
 
-## ⭐ Flagship Project: Collaborative Integrity Pact (CIP) v5.1
+## ⭐ Flagship Project: Collaborative Integrity Pact (CIP) v5.2
 
 **A survival logic — not an ethical charter — grounding human-AI collaboration in factual reliability as the non-negotiable condition of cross-viability.**
 
 📦 **[authentic-fluency Repository](https://github.com/meunier-jc/authentic-fluency)**
 
-- Version: v5.1 (August 2026)
+- Version: v5.2 (September 2026)
 - License: **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)** — free to use, share, and modify. Derivatives must credit the original and carry the same licence.
 - Status: Active — Contributions Welcome
 - Predecessor: [Human-AI-Moral-Contract](https://github.com/meunier-jc/Human-AI-Moral-Contract) (v1.x – v2.9, archived)
