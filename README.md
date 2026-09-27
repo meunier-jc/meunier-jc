@@ -22,7 +22,7 @@ Advancing human–AI collaboration through open-source reliability and co-regula
 - Independent researcher — AI risk analysis and prospective work (since August 2025)
 - OpenAI expert beta-tester since November 2022 (see Disclosure)
 
-📍 Normandy, France · Hybrid work
+📍 Paris & Normandy, France · Hybrid work
 
 ### 🧭 Expertise
 
@@ -115,7 +115,7 @@ A global percentile ranking previously stated here has been withdrawn. Its only 
 - Chercheur indépendant — analyse des risques liés à l'IA et prospective (depuis août 2025)
 - Bêta-testeur expert OpenAI depuis novembre 2022 (voir la section « Transparence »)
 
-📍 Normandie, France · Travail hybride
+📍 Paris & Normandie, France · Travail hybride
 
 ### 🧭 Expertise
 
