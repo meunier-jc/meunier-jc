@@ -165,7 +165,7 @@ Pour activer le cadre dans une conversation, utilisez le texte d'activation comp
 
 - Documente un mode de défaillance dans lequel l'IA désigne sa propre sortie exacte comme une hallucination, s'instituant elle-même arbitre de sa propre vérité. Selon les connaissances de l'auteur, il s'agit de sa première description formelle ; aucune revue indépendante de l'art antérieur n'a été menée.
 - Observation empirique fondatrice du cadre CIP. L'auteur déclare avoir déposé une enveloppe Soleau INPI pour ce travail.
-- [Lire l'analyse complète (anglais)](https://github.com/meunier-jc/authentic-fluency/blob/main/research/hallucinatory-inception.md) · [Version française](https://github.com/meunier-jc/authentic-fluency/blob/main/docs/fr/source/mise-en-abyme-hallucinations-2025-09-29.fr.md)
+- [Lire l'analyse complète (anglais)](https://github.com/meunier-jc/authentic-fluency/blob/main/research/hallucinatory-inception.md) · [Version française](https://github.com/meunier-jc/authentic-fluency/blob/main/docs/fr/recherche/mise-en-abyme-hallucinations-2025-09-29.fr.md)
 
 ### 💼 Services professionnels
 
