@@ -16,7 +16,7 @@ Advancing human–AI collaboration through open-source reliability and co-regula
 
 ### 🔍 About me
 
-**Currently** (as of September 2026):
+**Currently** (as of October 2026):
 
 - Independent consultant — AI ethics and governance (since September 2025)
 - Independent researcher — AI risk analysis and prospective work (since August 2025)
@@ -68,7 +68,7 @@ To activate the framework in a conversation, use the compact activation text in 
 
 ### 📚 Research and publications
 
-**Hallucinatory recursive embedding** (September 2025)
+**Hallucinatory recursive embedding** (observed August 13, 2025; formally documented September 29, 2025)
 
 - Documents a failure mode in which an AI designates its own accurate output as a hallucination, instituting itself as the arbiter of its own truth. To the author's knowledge this is its first formal description; no independent survey of prior art has been carried out.
 - Founding empirical observation of the CIP framework. The author declares an INPI Soleau envelope filed for this work.
@@ -109,7 +109,7 @@ A global percentile ranking previously stated here has been withdrawn. Its only 
 
 ### 🔍 À propos
 
-**En ce moment** (septembre 2026) :
+**En ce moment** (octobre 2026) :
 
 - Consultant indépendant — éthique et gouvernance de l'IA (depuis septembre 2025)
 - Chercheur indépendant — analyse des risques liés à l'IA et prospective (depuis août 2025)
@@ -161,7 +161,7 @@ Pour activer le cadre dans une conversation, utilisez le texte d'activation comp
 
 ### 📚 Recherche et publications
 
-**Enchâssement hallucinatoire récursif** (septembre 2025)
+**Enchâssement hallucinatoire récursif** (observé le 13 août 2025 ; documenté formellement le 29 septembre 2025)
 
 - Documente un mode de défaillance dans lequel l'IA désigne sa propre sortie exacte comme une hallucination, s'instituant elle-même arbitre de sa propre vérité. Selon les connaissances de l'auteur, il s'agit de sa première description formelle ; aucune revue indépendante de l'art antérieur n'a été menée.
 - Observation empirique fondatrice du cadre CIP. L'auteur déclare avoir déposé une enveloppe Soleau INPI pour ce travail.
