@@ -16,7 +16,7 @@ Advancing human–AI collaboration through open-source reliability and co-regula
 
 ### 🔍 About me
 
-**Currently** (as of October 2026):
+**Currently**:
 
 - Independent consultant — AI ethics and governance (since September 2025)
 - Independent researcher — AI risk analysis and prospective work (since August 2025)
@@ -49,7 +49,7 @@ A survival logic rather than an ethical charter, grounding human–AI collaborat
 - Version: v5.2 (September 2026)
 - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — free to use, share and modify. Derivatives must credit the original and carry the same license.
 - Status: active, contributions welcome
-- Predecessor: [Human-AI-Moral-Contract](https://github.com/meunier-jc/Human-AI-Moral-Contract) (v1.x–v2.9, archived)
+- Predecessor: [Human-AI-Moral-Contract](https://github.com/meunier-jc/Human-AI-Moral-Contract) (v1.x–v3.6, archived)
 
 To activate the framework in a conversation, use the compact activation text in [`CIP-Core-v5.2-en.md`](https://github.com/meunier-jc/authentic-fluency/blob/main/CIP-Core-v5.2-en.md).
 
@@ -109,7 +109,7 @@ A global percentile ranking previously stated here has been withdrawn. Its only 
 
 ### 🔍 À propos
 
-**En ce moment** (octobre 2026) :
+**En ce moment** :
 
 - Consultant indépendant — éthique et gouvernance de l'IA (depuis septembre 2025)
 - Chercheur indépendant — analyse des risques liés à l'IA et prospective (depuis août 2025)
@@ -142,7 +142,7 @@ Une logique de survie plutôt qu'une charte éthique : la collaboration humain�
 - Version : v5.2 (septembre 2026)
 - Licence : [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — libre d'utilisation, de partage et de modification. Les travaux dérivés doivent créditer l'original et conserver la même licence.
 - Statut : actif, contributions bienvenues
-- Prédécesseur : [Human-AI-Moral-Contract](https://github.com/meunier-jc/Human-AI-Moral-Contract) (v1.x–v2.9, archivé)
+- Prédécesseur : [Human-AI-Moral-Contract](https://github.com/meunier-jc/Human-AI-Moral-Contract) (v1.x–v3.6, archivé)
 
 Pour activer le cadre dans une conversation, utilisez le texte d'activation compact dans [`CIP-Core-v5.2-fr.md`](https://github.com/meunier-jc/authentic-fluency/blob/main/CIP-Core-v5.2-fr.md).
 
